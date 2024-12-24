@@ -1,0 +1,22 @@
+## DESARROLLOS PENDIENTES PRÓXIMAS VERSIONES
+
+- Añadir funciones de probabilidades de compra en Copilot para upsellingProb y reactivationProb y añadir dictionary details de Probability en el frontend de Zendesk para las fichas de usuario.
+- Añadir funcionalidad de subir archivos al thread (que se almacenan en S3 (AWS), bucket "justicia-uploaded").
+- Corrección en visualización frontend de saltos de línea en elementos numerados y bullet points.
+- Mejora de seguridad con la protección de la contraseña de inicio de sesión como variable de entorno.
+- Actualizar el vector store de JusticIA Esencial con otras guías pendientes de subir.
+- Actualizar el vector store de JusticIA Legal con documentación legal de nuestros casos para poder hacer búsquedas sobre nuestros casos.
+- Actualizar el vector store de JusticIA People con documentación explicando los funnels, etiquetas, eventos externos, etc.
+- Actualizar el vector store de JusticIA Copy con ejemplos reales de copys de Marketing, Campañas, Fundraising, Fundraising postal, redes sociales y textos de campañas; + textos con lenguaje de Hispanoamérica para la tropicalización.
+- Actualizar JusticIA Copy para añadir instrucciones de tropicalización cuando se pida un texto para una campaña en Hispanoamérica.
+- Revisar el webhook que envía datos de Zendesk a JusticIA para evitar duplicidades en notas para llamadas y para tickets.
+- Cambiar el mensaje de error genérico cuando hay un error en alguna llamada (por ejemplo, a funciones) por un mensaje de error personalizado que no dé apariencia de que se ha roto el sistema.
+- Solucionar errores HTTP 304 en la carga de imágenes del directorio /static.
+- Habilitar la función buscar_google en los 4 assistants en el dashboard.
+- Sistema de cuentas de usuarios para guardar los chats de cada usuario con JusticIA.
+- Usar fine tuning para las llamadas a JusticIA Copilot y JusticIA API para usar un modelo de menor costo pero finetuneado.
+- Copilot para sugerir cantidades de donar con purchaseprob etc.
+- Nueva función para exportar en un archivo una conversación completa con justicia
+- meter cosas del tedh en justicia legal.
+- añadir transcripciones de guiones de nuestros vídeos para generar base de datos y producir mejores copys.
+- añadir base de datos de tuits y publicaciones por cada red social para generar base de datos y producir mejores copys.
