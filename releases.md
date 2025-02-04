@@ -1,5 +1,25 @@
 # JusticIA ecoSystem - La IA de la FEAC
 
+## 2.0.0 (04/02/2025)
+
+:rocket: **NUEVAS FUNCIONALIDADES**
+
+- **Unificación de Assistants dentro de JusticIA Global**:
+  - Ahora sólo operamos con un único Assistant, JusticIA Global, al que se le pueden hacer todas las consultas de las diferentes áreas de la FEAC y el OLRC.
+  - Ahora este Assistant opera con 6 roles diferentes en función del caso de uso.
+  - Se han mejorado mucho las instrucciones para hacerlas más específicas y se ha ajustado la temperatura de respuesta del modelo.
+  - Elementos afectados: JusticIA Assistants.
+
+:technologist:	**MEJORAS DE USABILIDAD**
+
+- Se ha modificado el frontend de JusticIA para eliminar el menú de selección de asistentes.
+- Se han unificado en este Assistant las 6 funciones especiales.
+
+:books: **ENRIQUECIMIENTO DE BBDD**
+
+- Se han unificado las bases de datos de conocimiento y se han añadido 48 nuevos archivos.
+- Estos nuevos archivos incluyen sobre todo jurisprudencia y documentos magisteriales y doctrinales.
+
 ## 1.1.0 (24/12/2024)
 
 :rocket: **NUEVAS FUNCIONALIDADES**
@@ -19,17 +39,14 @@
     - /addPurchaseProbability: posibilidad de que un Donante puntual vuelva a hacer un donativo puntual.
   - Elementos afectados: JusticIA Copilot (+ automation rules en SALESmanago).
 
-
 :hammer_and_wrench: **ARREGLOS**
 
 - Arreglo de problemas de autorización en la función para extraer el contenido de una URL (search_and_read_url) en los 4 Assistants.
 - Mejora del manejo de errores en el frontend para que aparezca un mensaje con el error y no un mensaje de "código roto".
 
-
 :technologist:	**MEJORAS DE USABILIDAD**
 
 - Nuevos cuadros de atajos a las funciones de cada Assistant para prerellenar la llamada a la función y reducir errores.
-
 
 :eyes: **MEJORAS ESTÉTICAS**
 
