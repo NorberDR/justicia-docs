@@ -4,9 +4,9 @@ JusticIA ecoSystem es la plataforma de inteligencia artificial para uso interno 
 
 Este README está diseñado para ayudar al Equipo a entender qué es JusticIA, de qué se compone, cuáles son sus funcionalidades y la versión actual (y el historial de versiones).
 
-**Versión actual de JusticIA ecoSystem: 2.0.0 (04/22/2025)**.
+**Versión actual de JusticIA ecoSystem: 2.0.1 (06/02/2025)**.
 
-**Última actualización del README: 04/02/2025**.
+**Última actualización del README: 06/02/2025**.
 
 ## Componentes y funcionalidades de JusticIA
 

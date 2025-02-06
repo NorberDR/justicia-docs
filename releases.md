@@ -1,5 +1,12 @@
 # JusticIA ecoSystem - La IA de la FEAC
 
+## 2.0.1 (06/02/2025)
+
+:books: **ENRIQUECIMIENTO DE BBDD**
+
+- Se han ampliado y mejorado las instrucciones de JusticIA para ajustar mejor los roles.
+- Se ha especificado mejor el rol de JusticIA Observatorio y se han ampliado sus instrucciones y tareas.
+
 ## 2.0.0 (04/02/2025)
 
 :rocket: **NUEVAS FUNCIONALIDADES**
